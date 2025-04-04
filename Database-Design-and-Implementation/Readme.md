@@ -16,4 +16,4 @@ In this scenario, you have recently been hired as a Data Engineer by a New York 
 - Task 9: Import data into a MySQL database using phpMyAdmin GUI tool  
 - Task 10: Import data into a MySQL database  
 
-
+Kindly refer to the table for further understanding of the Coffee shop database ![Table](https://github.com/Wasiu-lab/IBM-Data-Engineering-certification/blob/main/Database-Design-and-Implementation/Tasks/Table.png)
